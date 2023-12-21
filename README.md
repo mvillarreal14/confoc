@@ -1,9 +1,9 @@
 # ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks
 ConFoc is a model-hardening technique to protect Deep Neural Networks (DNNs)against trojan or backdoor attacks. Its results were presented in the paper  "ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks". This repo contains:
-* The utilized version of fast.ai deep learning library
+* The utilized version of fast.ai deep learning library.
 * The source code to generate styled images and train/retrain models. 
 * Examples in notebooks on these tasks, which show how to run ConFoc. 
-* The GTRSB and VGGFACE data used in our experiments. Notice that we include two examples for each dataset of the resulting styled images in the folder data. These examples are followed by the suffices _00 and _01.
+* The GTRSB and VGGFACE datasets used in our experiments. Notice that we include two examples for each dataset of the resulting styled images in the folder data. These examples are sub-folders with the suffices "_00" and "_01".
 
   
 ## To install
